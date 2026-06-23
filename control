@@ -1,0 +1,8 @@
+Package: com.yourname.kurotokenextractor
+Name: Kuro Token Extractor
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Extract Token and DID from 库街区 App
+Author: YourName
+Section: Tweaks
+Depends: mobilesubstrate

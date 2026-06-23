@@ -1,0 +1,20 @@
+# Ignore build artifacts
+.theos/
+packages/
+.debmake/
+obj/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignore temporary files
+*.log
+*.tmp
